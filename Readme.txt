@@ -10,3 +10,5 @@ These set Angular application provides basic understanding of,
   8) Angular Content Projection
   9) Angular Multi-slot content Projection
   10) Angular Routing Basics
+
+This is a course covered by Java Brains
